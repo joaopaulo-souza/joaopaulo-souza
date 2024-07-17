@@ -1,1 +1,1 @@
-<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/README_animation.gif">
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/image0.jpg">
