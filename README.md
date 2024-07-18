@@ -50,3 +50,6 @@ My_Skills = [
 <img alt="Static Badge" src="https://img.shields.io/badge/DevTo-darkslategray?style=flat&logo=dev.to&logoColor=white&logoSize=auto&labelColor=darkslategray" height="40">
 </a>
 
+<a href="https://x.com/">
+<img alt="Static Badge" src="https://img.shields.io/badge/-darkslategray?style=flat&logo=X&logoColor=white&logoSize=auto&labelColor=darkslategray" height="40">
+</a>
