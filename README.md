@@ -32,7 +32,7 @@ My_Skills = [
 <h1> # Take a look at the song I'm listening to</h1>
 
 
-<h1><img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/machine9q.gif" width="55" height="40">#Follow me on Social Media </h1>
+<h1><img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/machine9q.gif" width="55" height="55">#Follow me on Social Media </h1>
 
 <a href="https://www.instagram.com/joaopaulo.ces/">
 <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-darkslategray?style=flat&logo=instagram&logoColor=deeppink&logoSize=auto&labelColor=darkslategray" height="40">
