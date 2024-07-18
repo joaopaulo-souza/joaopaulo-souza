@@ -16,7 +16,7 @@
 <h1>
 My_Skills = [
 <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/matlab.svg" width="55" height="55">,
-<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/c-1.svg" width="55" height="55">,
+<!--<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/c-1.svg" width="55" height="55">,-->
 <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/c.svg" width="55" height="55">,
 <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/git-scm-icon.svg">,
 <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/javascript-icon.svg">,
@@ -25,5 +25,7 @@ My_Skills = [
 <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/pytorch-icon.svg">,
 <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/tensorflow-icon.svg">,
 <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/pandas.svg" width="55" height="55">,
-<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/matplotlib-1.svg" width="55" height="55">]
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/matplotlib-1.svg" width="55" height="55">,
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/mysql-icon.svg" >,
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/mongodb-icon.svg" >]
 </h1>
