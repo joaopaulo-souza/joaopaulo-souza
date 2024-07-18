@@ -12,7 +12,9 @@
 - 💬 I would love to talk about AI, Literature, Movies ... 
 - 📜 I've already read about 63% of Dostoevsky's works.
 
-<h1> Tech I work on: List = [
+<h1> Tech I work on:</h1> 
+<h1>
+List = [
 <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/git-scm-icon.svg">,
 <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/python-icon.svg">,
 <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/numpy-icon.svg">,
