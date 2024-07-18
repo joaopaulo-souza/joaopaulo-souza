@@ -10,4 +10,4 @@
 - 📚 Writing is another one (even though it's been a while since the last time I wrote)
 - 🇫🇷 Je peux parler un peu en français,🇪🇸 Y puedo hablar español también
 - 💬 I would love to talk about AI, Literature, Movies ... 
-- 📜 I've completed about 63% of Dostoevsky's works.
+- 📜 I've already read about 63% of Dostoevsky's works.
