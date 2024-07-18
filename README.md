@@ -32,20 +32,8 @@ My_Skills = [
 <h1> # Take a look at the song I'm listening to</h1>
 
 
+<h1>#Follow me on Social Media </h1>
+<img alt="Static Badge" src="https://img.shields.io/badge/instagram-deeppink?style=plastic&logo=instagram&logoColor=white&labelColor=dimgray"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-dodgerblue?style=plastic&logo=linkedin&logoColor=white&labelColor=dimgray">
 
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
+
 
