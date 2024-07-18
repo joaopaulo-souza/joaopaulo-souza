@@ -46,7 +46,7 @@ My_Skills = [
 </p>
 -->
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=joaopauloc.souza&count=5">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=joaopauloc.souzacount=5">
 </p>
 
 
