@@ -35,11 +35,11 @@ My_Skills = [
 <h1>#Follow me on Social Media </h1>
 
 <a href="https://www.instagram.com/joaopaulo.ces/">
-<img alt="Static Badge" src="https://img.shields.io/badge/Instagram-darkslategray?style=flat&logo=instagram&logoColor=deeppink&logoSize=auto&labelColor=darkslategray">
+<img alt="Static Badge" src="https://img.shields.io/badge/Instagram-darkslategray?style=flat&logo=instagram&logoColor=deeppink&logoSize=auto&labelColor=darkslategray" height="40">
 </a>
 
 <a href="https://www.linkedin.com/">
-<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-darkslategray?style=flat&logo=linkedin&logoColor=%230e76a8&logoSize=auto&labelColor=darkslategray">
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-darkslategray?style=flat&logo=linkedin&logoColor=%230e76a8&logoSize=auto&labelColor=darkslategray" height="40">
 </a>
 
 
