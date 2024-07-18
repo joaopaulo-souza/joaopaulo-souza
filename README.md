@@ -41,7 +41,7 @@ My_Skills = [
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaopaulo-souza&theme=github-dark-dimmed&custom_title=joaopaulo-souza%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h1><img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/machine9q.gif" width="55" height="55">#Follow me on Social Media </h1>
