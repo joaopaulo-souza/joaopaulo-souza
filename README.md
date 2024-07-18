@@ -11,3 +11,5 @@
 - 🇫🇷 Je peux parler un peu en français,🇪🇸 Y puedo hablar español también
 - 💬 I would love to talk about AI, Literature, Movies ... 
 - 📜 I've already read about 63% of Dostoevsky's works.
+
+<h2> Tech I wrok on: </h2>
