@@ -12,11 +12,10 @@
 - 💬 I would love to talk about AI, Literature, Movies ... 
 - 📜 I've already read about 63% of Dostoevsky's works.
 
-<h2> Tech I work on: </h2>
-<p> 
-<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/git-scm-icon.svg">
-<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/python-icon.svg">
-<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/numpy-icon.svg">
-<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/pytorch-icon.svg">
-<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/tensorflow-icon.svg">
-</p>
+<h1> Tech I work on: List = [
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/git-scm-icon.svg">,
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/python-icon.svg">,
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/numpy-icon.svg">,
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/pytorch-icon.svg">,
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/tensorflow-icon.svg">]
+</h1>
