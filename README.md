@@ -12,7 +12,7 @@
 - 💬 I would love to talk about AI, Literature, Movies ... 
 - 📜 I've already read about 63% of Dostoevsky's works.
 
-<h1> <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/robotq.gif"><b>#Some of the tech I work on:</b></h1> 
+<h1> <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/robotq.gif" width="40" height="40"><b>#Some of the tech I work on:</b></h1> 
 <h1>
 My_Skills = [
 <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/matlab.svg" width="40" height="40">,
