@@ -39,7 +39,7 @@ My_Skills = [
 
 
 
-<h1> # Take a look at the song I'm listening to</h1>
+<h1> <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/robot.gif" width="45" height="45"># Take a look at the song I'm listening to</h1>
 <!--
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
