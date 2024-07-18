@@ -12,6 +12,10 @@
 - 💬 I would love to talk about AI, Literature, Movies ... 
 - 📚 I've already read about 63% of Dostoevsky's works.
 
+
+
+
+
 <h1> <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/robot_walk.gif" width="40" height="40"><b>#Some of the tech I work on:</b></h1> 
 <h1>
 My_Skills = [
@@ -31,6 +35,10 @@ My_Skills = [
 </h1>
 
 
+
+
+
+
 <h1> # Take a look at the song I'm listening to</h1>
 <!--
 <p align="center">
@@ -41,7 +49,16 @@ My_Skills = [
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
 </p>
 
+
+
+
+
+
+<h1> <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/machine1q.gif" width="45" height="45"># My activity in a graph</h1>
+
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaopaulo-souza&theme=github-dark-dimmed&custom_title=joaopaulo-souza%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
 <h1><img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/machine9q.gif" width="55" height="55">#Follow me on Social Media </h1>
