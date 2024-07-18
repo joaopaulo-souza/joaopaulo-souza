@@ -15,19 +15,19 @@
 <h1> # Some of the tech I work on:</h1> 
 <h1>
 My_Skills = [
-<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/matlab.svg" width="55" height="55">,
-<!--<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/c-1.svg" width="55" height="55">,-->
-<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/c.svg" width="55" height="55">,
-<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/git-scm-icon.svg">,
-<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/javascript-icon.svg">,
-<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/python-icon.svg">,
-<!--<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/numpy-icon.svg">,-->
-<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/pytorch-icon.svg">,
-<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/tensorflow-icon.svg">,
-<!--<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/pandas.svg" width="55" height="55">,-->
-<!--<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/matplotlib-1.svg" width="55" height="55">,-->
-<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/mysql-icon.svg" >,
-<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/mongodb-icon.svg" >]
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/matlab.svg" width="40" height="40">,
+<!--<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/c-1.svg" width="40" height="40">,-->
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/c.svg" width="40" height="40">,
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/git-scm-icon.svg" width="40" height="40">,
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/javascript-icon.svg" width="40" height="40">,
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/python-icon.svg" width="40" height="40">,
+<!--<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/numpy-icon.svg" width="40" height="40">,-->
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/pytorch-icon.svg" width="40" height="40">,
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/tensorflow-icon.svg" width="40" height="40">,
+<!--<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/pandas.svg" width="40" height="40">,-->
+<!--<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/matplotlib-1.svg" width="40" height="40">,-->
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/mysql-icon.svg" width="40" height="40">,
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/mongodb-icon.svg" width="40" height="40">]
 </h1>
 <h1> # Take a look at the song I'm listening to</h1>
 <p align="center">
