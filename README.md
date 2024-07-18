@@ -1,6 +1,6 @@
 <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/image0.jpg">
 
-<h1><img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/robot_walk.gif"> Nice to meet you. </h1>
+<h1><img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/robot_walk.gif"> #Nice to meet you. </h1>
 
 - 🧑‍💻 I am a certified AI Engineer 
 - 🧠 I have a extreme passion for Machine Learning and AI in general 
@@ -12,7 +12,7 @@
 - 💬 I would love to talk about AI, Literature, Movies ... 
 - 📜 I've already read about 63% of Dostoevsky's works.
 
-<h1> # Some of the tech I work on:</h1> 
+<h1> <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/robot.gif">#Some of the tech I work on:</h1> 
 <h1>
 My_Skills = [
 <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/matlab.svg" width="40" height="40">,
