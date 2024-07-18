@@ -12,12 +12,13 @@
 - 💬 I would love to talk about AI, Literature, Movies ... 
 - 📜 I've already read about 63% of Dostoevsky's works.
 
-<!--<h1> Tech I work on:</h1> -->
+<h1> # Tech I work on:</h1> 
 <h1>
 My_Skills = [
 <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/git-scm-icon.svg">,
 <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/python-icon.svg">,
 <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/numpy-icon.svg">,
 <img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/pytorch-icon.svg">,
-<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/tensorflow-icon.svg">]
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/tensorflow-icon.svg">,
+<img src="https://github.com/joaopaulo-souza/joaopaulo-souza/blob/master/images/Icons/matplotlib-1.svg">]
 </h1>
