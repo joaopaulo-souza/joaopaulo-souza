@@ -70,7 +70,7 @@ My_Skills = [
 <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-darkslategray?style=flat&logo=instagram&logoColor=deeppink&logoSize=auto&labelColor=darkslategray" height="40">
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/joao-paulo-c-souza-1aa91231a">
 <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-darkslategray?style=flat&logo=linkedin&logoColor=%230e76a8&logoSize=auto&labelColor=darkslategray" height="40">
 </a>
 
