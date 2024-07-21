@@ -74,14 +74,18 @@ My_Skills = [
 <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-darkslategray?style=flat&logo=linkedin&logoColor=%230e76a8&logoSize=auto&labelColor=darkslategray" height="40">
 </a>
 
+<!--
 <a href="https://buymeacoffee.com/">
 <img alt="Static Badge" src="https://img.shields.io/badge/BuyMeACoffee-darkslategray?style=flat&logo=buymeacoffee&logoColor=fde910&logoSize=auto&labelColor=darkslategray" height="40">
 </a>
+-->
 
-<a href="https://dev.to/">
+
+<a href="https://dev.to/joaopaulo-souza">
 <img alt="Static Badge" src="https://img.shields.io/badge/DevTo-darkslategray?style=flat&logo=dev.to&logoColor=white&logoSize=auto&labelColor=darkslategray" height="40">
 </a>
 
-<a href="https://x.com/">
+
+<a href="https://x.com/JoaoPaulo_CSZ">
 <img alt="Static Badge" src="https://img.shields.io/badge/-darkslategray?style=flat&logo=X&logoColor=white&logoSize=auto&labelColor=darkslategray" height="40">
 </a>
